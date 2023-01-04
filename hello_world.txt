@@ -1,1 +1,1 @@
-I am adding sample text to this file in odrder to practice the basics of Git and GitHub
+I am adding sample text to this file in order to practice the basics of Git and GitHub
